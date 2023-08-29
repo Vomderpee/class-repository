@@ -1,3 +1,3 @@
-# class-repository
+# lab_assignment
 
 # adding comments
